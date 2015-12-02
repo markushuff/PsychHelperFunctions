@@ -1,5 +1,5 @@
 # PsychHelperFunctions
 
-R-Package including common helper functions for psychological data analysis
+R-package including common helper functions for psychological data analysis
 
-This package is intended to be constantly growing.
+This r-package will (hopefully) grow constantly.
