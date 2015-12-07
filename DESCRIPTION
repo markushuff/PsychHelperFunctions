@@ -1,0 +1,19 @@
+Package: PsychHelperFunctions
+Type: Package
+Title: Common helper functions for psychological data analysis
+Version: 0.3
+Date: 2015-12-02
+Author: Markus Huff, Frank Papenmeier
+Maintainer: Markus Huff <markus.huff@gmail.com>
+Description: Common helper functions for psychological data analysis
+License: GPL (>= 2)
+Imports: sciplot, ez
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Collate:
+    'cohens_d_paired.R'
+    'cohens_d_unpaired.R'
+    'sciplot-within-CI.R'
+    'bargraph.CI_within.R'
+    'lineplot.CI_within.R'
+    'ez_pes.R'
