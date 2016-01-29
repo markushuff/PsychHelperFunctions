@@ -1,7 +1,7 @@
 Package: PsychHelperFunctions
 Type: Package
 Title: Common helper functions for psychological data analysis
-Version: 0.3
+Version: 0.3.1
 Date: 2015-12-02
 Author: Markus Huff, Frank Papenmeier
 Maintainer: Markus Huff <markus.huff@gmail.com>
@@ -17,3 +17,4 @@ Collate:
     'bargraph.CI_within.R'
     'lineplot.CI_within.R'
     'ez_pes.R'
+    'pes.R'
