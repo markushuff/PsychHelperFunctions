@@ -18,3 +18,4 @@ Collate:
     'lineplot.CI_within.R'
     'ez_pes.R'
     'pes.R'
+    'pes_to_f.R'
