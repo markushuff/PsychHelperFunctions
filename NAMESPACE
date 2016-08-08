@@ -3,6 +3,7 @@
 export(bargraph.CI.within)
 export(cohens_d_paired)
 export(cohens_d_unpaired)
+export(cohens_w)
 export(ezANOVA.pes)
 export(lineplot.CI.within)
 export(pes)
