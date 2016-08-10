@@ -14,8 +14,10 @@ Overdispersion measure.
 }
 \description{
 Overdispersion of a glmer model is given if the deviation is larger than the mean. If this is the case 
-(the ratio "prat" is larger than 1), it is recommended to calculate a variable with a unique value for each observation 
+(the ratio is larger than 1), it is recommended to calculate a variable with a unique value for each observation 
 (dat$obs_effect <- 1:nrow(dat)) and to include this variable as additional random term (+ (1|obs_effect)).
+
+It is important to fit the glmer model on the raw data. Otherwise, this function throws an error message.
 }
 \references{
 http://glmm.wikidot.com/faq
