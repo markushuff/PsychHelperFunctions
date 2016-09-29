@@ -4,7 +4,13 @@ R-package including common helper functions for psychological data analysis
 
 This package will (hopefully) grow constantly.
 
-Binaries are available:
+## Installation directly from github
+  install.packages("devtools") 
+  library("devtools") 
+  install_github("markushuff/PsychHelperFunctions")
+  library(PsychHelperFunctions)
+
+## Binaries are available:
 
 - [Version 0.3.4](https://www.dropbox.com/s/a2z6f5w0zd4p3pe/PsychHelperFunctions_0.3.4.tgz?dl=0)
 - [Version 0.3.3](https://www.dropbox.com/s/4hv1c6n6h5x55i3/PsychHelperFunctions_0.3.3.tgz?dl=0)
