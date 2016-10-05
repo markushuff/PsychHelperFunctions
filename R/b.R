@@ -11,7 +11,7 @@
 
 b <- function(hit,fa)
 {
-  if(fa<=.5 & hit>=.5)
+  if(any(fa<=.5) & any(hit>=.5))
   {
     b <-(5-4*hit)/(1+4*fa)
   } else if(fa<=hit & hit<=.5)

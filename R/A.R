@@ -10,7 +10,7 @@
 
 A <-function(hit,fa)
 {
-  if(fa<=.5 & hit>=.5)
+  if(any(fa<=.5) & any(hit>=.5))
   {
     a <- .75 + (hit-fa)/4 - fa*(1-hit)
   } else if(fa<=hit & hit<=.5)
