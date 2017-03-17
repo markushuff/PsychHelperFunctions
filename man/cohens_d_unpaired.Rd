@@ -36,4 +36,3 @@ Rosenthal, R. (1994) Parametric measures of effect size. In H.
 Cooper and L.V. Hedges (Eds.). The handbook of research synthesis. New York:
 Russell Sage Foundation.
 }
-

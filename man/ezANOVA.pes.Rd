@@ -21,4 +21,3 @@ ezANOVA muss mit dem Parameter 'detailed=T' ausgeführt werden.
 \author{
 Frank Papenmeier
 }
-

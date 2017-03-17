@@ -71,4 +71,3 @@ Bargraph within-subject error bars
 \author{
 Frank Papenmeier
 }
-

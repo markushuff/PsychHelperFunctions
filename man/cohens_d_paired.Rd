@@ -26,4 +26,3 @@ http://imaging.mrc-cbu.cam.ac.uk/statswiki/FAQ/td
 Lenth, R. V. (2006) Java Applets for Power and Sample Size [Computer software].
 Retrieved month day, year, from http://www.stat.uiowa.edu/~rlenth/Power.
 }
-

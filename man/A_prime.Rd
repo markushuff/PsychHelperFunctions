@@ -20,4 +20,3 @@ Compute the non-parameterical measure A' for sensitivity
 \references{
 Stanislaw, H., & Todorov, N. (1999). Calculation of signal detection theory measures. Behavior Research Methods, Instruments, & Computers, 31(1), 137–149.
 }
-

@@ -19,4 +19,3 @@ Calculate partial eta squared of a given F statistic
 \author{
 Markus Huff
 }
-

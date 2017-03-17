@@ -15,4 +15,3 @@ Converts partial eta squared to Cohen's f
 \author{
 Markus Huff
 }
-

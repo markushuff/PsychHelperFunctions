@@ -20,4 +20,3 @@ Compute the non-parameterical measure b for bias
 \references{
 Zhang, J., & Mueller, S. T. (2005). A note on ROC analysis and non-parametric estimate of sensitivity. Psychometrika, 70(1), 203–212. doi:10.1007/s11336-003-1119-8
 }
-

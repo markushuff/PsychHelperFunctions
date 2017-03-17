@@ -26,4 +26,3 @@ http://stats.stackexchange.com/questions/6989/how-do-i-fit-a-multilevel-model-fo
 
 http://stats.stackexchange.com/questions/83611/how-to-fix-an-overdispersion-in-a-poisson-glmm-with-lmer-function-in-r
 }
-

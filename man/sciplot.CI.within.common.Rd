@@ -14,4 +14,3 @@ Cousineau-Morey intervals with adaption by Baguley (2012), Morey (2008), and Cou
 \author{
 Frank Papenmeier
 }
-

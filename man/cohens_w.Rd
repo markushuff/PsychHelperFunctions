@@ -26,4 +26,3 @@ http://ncss.wpengine.netdna-cdn.com/wp-content/themes/ncss/pdf/Procedures/NCSS/C
 
 https://de.wikipedia.org/wiki/Effektst%C3%A4rke
 }
-
