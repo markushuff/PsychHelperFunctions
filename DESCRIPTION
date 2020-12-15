@@ -8,6 +8,7 @@ Maintainer: Markus Huff <markus.huff@gmail.com>
 Description: Common helper functions for psychological data analysis
 License: GPL (>= 2)
 Imports: sciplot, ez
+Encoding: UTF-8
 LazyData: TRUE
 RoxygenNote: 7.1.1
 Collate:
