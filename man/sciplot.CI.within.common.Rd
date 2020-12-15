@@ -4,8 +4,16 @@
 \alias{sciplot.CI.within.common}
 \title{Sciplot within-subject error bars}
 \usage{
-sciplot.CI.within.common(x.factor, response, group, data, sid, subset,
-  conf.level, within.ci.method)
+sciplot.CI.within.common(
+  x.factor,
+  response,
+  group,
+  data,
+  sid,
+  subset,
+  conf.level,
+  within.ci.method
+)
 }
 \description{
 Implemented within CI Methods: 

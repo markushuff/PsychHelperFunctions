@@ -4,9 +4,17 @@
 \alias{lineplot.CI.within}
 \title{Lineplot within-subject error bars}
 \usage{
-lineplot.CI.within(x.factor, response, group = NULL, data = NULL,
-  sid = NULL, subset = NULL, conf.level = 0.95,
-  within.ci.method = c("baguley", "morey", "cousineau"), ...)
+lineplot.CI.within(
+  x.factor,
+  response,
+  group = NULL,
+  data = NULL,
+  sid = NULL,
+  subset = NULL,
+  conf.level = 0.95,
+  within.ci.method = c("baguley", "morey", "cousineau"),
+  ...
+)
 }
 \arguments{
 \item{x.factor}{a factor (required) whose levels will form the x axis.}

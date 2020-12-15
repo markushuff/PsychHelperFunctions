@@ -4,9 +4,17 @@
 \alias{bargraph.CI.within}
 \title{Bargraph within-subject error bars}
 \usage{
-bargraph.CI.within(x.factor, response, group = NULL, data = NULL,
-  sid = NULL, subset = NULL, conf.level = 0.95,
-  within.ci.method = c("baguley", "morey", "cousineau"), ...)
+bargraph.CI.within(
+  x.factor,
+  response,
+  group = NULL,
+  data = NULL,
+  sid = NULL,
+  subset = NULL,
+  conf.level = 0.95,
+  within.ci.method = c("baguley", "morey", "cousineau"),
+  ...
+)
 }
 \arguments{
 \item{x.factor}{a factor (required) whose levels will form the x axis.}
