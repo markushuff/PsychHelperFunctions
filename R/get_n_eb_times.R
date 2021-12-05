@@ -8,8 +8,6 @@
 #' @references Papenmeier, F., & Sering, K. (2014). segmag: Determine event boundaries in event segmentation experiments. R package version, 1(2).
 #' @export
 #'
-
-
 get_n_eb_times <- function(n, segmag)
 {
   eb_times <- segmag::get_eb_times(segmag,

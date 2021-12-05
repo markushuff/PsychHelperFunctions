@@ -2,7 +2,7 @@ Package: PsychHelperFunctions
 Type: Package
 Title: Common helper functions for psychological data analysis
 Version: 0.3.8
-Date: 2020-12-15
+Date: 2021-12-05
 Author: Markus Huff, Frank Papenmeier
 Maintainer: Markus Huff <markus.huff@gmail.com>
 Description: Common helper functions for psychological data analysis
@@ -28,3 +28,4 @@ Collate:
     'pes.R'
     'pes_to_f.R'
     'lm.loss_x_y.R'
+    'get_n_eb_times.R'
