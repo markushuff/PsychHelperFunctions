@@ -1,7 +1,7 @@
 #' n most salient event boundaries
 #'
 #' @author Markus Huff
-#' @param n umber of the most salient event boundaries in descending order to return
+#' @param n number of the most salient event boundaries in descending order to return
 #' @param segmag segmag object
 #' @return dataframe including the n most salient event boundaries in descending order
 #' @description Get a list including the n highest event boundaries of a segmag object (Papenmeier, 2016; https://cran.r-project.org/package=segmag). Sometimes it is necessary to get just a list of the n highest event boundaries w/o doing the time consuming bootstrapping method. Note, this function requires the segmag package.

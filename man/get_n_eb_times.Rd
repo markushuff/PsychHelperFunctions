@@ -7,7 +7,7 @@
 get_n_eb_times(n, segmag)
 }
 \arguments{
-\item{n}{umber of the most salient event boundaries in descending order to return}
+\item{n}{number of the most salient event boundaries in descending order to return}
 
 \item{segmag}{segmag object}
 }
