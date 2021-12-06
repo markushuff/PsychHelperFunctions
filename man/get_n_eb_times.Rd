@@ -7,16 +7,19 @@
 get_n_eb_times(n, segmag)
 }
 \arguments{
-\item{n}{number of the most salient event boundaries to return}
+\item{n}{umber of the most salient event boundaries in descending order to return}
 
 \item{segmag}{segmag object}
 }
 \value{
-dataframe including the n most salient event boundaries
+dataframe including the n most salient event boundaries in descending order
 }
 \description{
 Get a list including the n highest event boundaries of a segmag object (Papenmeier, 2016; https://cran.r-project.org/package=segmag). Sometimes it is necessary to get just a list of the n highest event boundaries w/o doing the time consuming bootstrapping method. Note, this function requires the segmag package.
 }
 \references{
 Papenmeier, F., & Sering, K. (2014). segmag: Determine event boundaries in event segmentation experiments. R package version, 1(2).
+}
+\author{
+Markus Huff
 }
