@@ -10,5 +10,6 @@ This package will (hopefully) grow constantly.
     install_github("markushuff/PsychHelperFunctions")
     library(PsychHelperFunctions)
 
-## last mod
+## last mods
+- 2022-09-08: new function: c (response bias)
 - 2021-12-05: new function: get_n_eb_times.R

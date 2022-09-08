@@ -1,8 +1,8 @@
 Package: PsychHelperFunctions
 Type: Package
 Title: Common helper functions for psychological data analysis
-Version: 0.3.8
-Date: 2021-12-05
+Version: 0.3.9
+Date: 2022-09-08
 Author: Markus Huff, Frank Papenmeier
 Maintainer: Markus Huff <markus.huff@gmail.com>
 Description: Common helper functions for psychological data analysis
@@ -10,7 +10,7 @@ License: GPL (>= 2)
 Imports: sciplot, ez, segmag
 Encoding: UTF-8
 LazyData: TRUE
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.1
 Collate:
     'A.R'
     'A_prime.R'
