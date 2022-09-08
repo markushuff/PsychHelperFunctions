@@ -16,6 +16,7 @@ Collate:
     'A_prime.R'
     'b.R'
     'B_prime.R'
+    'bias_c.R'
     'cohens_d_paired.R'
     'cohens_d_unpaired.R'
     'cohens_w.R'
