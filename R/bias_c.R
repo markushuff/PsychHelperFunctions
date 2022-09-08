@@ -9,7 +9,7 @@
 
 #' @export
 #'
-cc <- function(hit,fa)
+bias_c <- function(hit,fa)
 {
   if(any(hit >= 1) | any(fa <= 0))
   {
@@ -17,7 +17,7 @@ cc <- function(hit,fa)
   }
   else
   {
-    c <- -(qnorm(hit) + qnorm(fa))/2
+    bias_c <- -(qnorm(hit) + qnorm(fa))/2
   }
-  return(c)
+  return(bias_c)
 }
